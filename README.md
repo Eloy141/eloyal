@@ -7,7 +7,6 @@
   <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-gray-100 text-gray-800 font-sans">
-
   <!-- Header -->
   <header class="bg-white shadow p-4">
     <div class="max-w-6xl mx-auto flex justify-between items-center">
@@ -49,9 +48,8 @@
   <section id="videos" class="max-w-4xl mx-auto py-16 px-4">
     <h3 class="text-3xl font-semibold mb-6">Vídeos</h3>
     <p>Podes encontrar os meus vídeos no meu canal do YouTube ou redes sociais.</p>
-    <!-- Exemplo de embed -->
     <div class="mt-6">
-      <iframe class="w-full aspect-video" src="https://www.youtube.com/embed/VIDEO_ID_DO_TEU_CANAL" frameborder="0" allowfullscreen></iframe>
+      <iframe class="w-full aspect-video" src="https://www.youtube.com/embed/lfXLd1OobVo" frameborder="0" allowfullscreen></iframe>
     </div>
   </section>
 
@@ -71,6 +69,5 @@
   <footer class="bg-gray-900 text-center text-white py-4">
     <p>&copy; 2025 Eloyal. Todos os direitos reservados.</p>
   </footer>
-
 </body>
 </html>
